@@ -1,0 +1,19 @@
+.jumbotron {
+  padding: 100px 0px 240px;
+}
+
+.table-bordered1 {
+  margin-bottom: 28px;
+}
+
+.auto{
+	display: block;
+	padding: 5px;
+	margin-top: 5px;
+	width: 1000px;
+	
+	overflow-x:  scroll;
+}
+
+
+/*# sourceMappingURL=main.css.map */
